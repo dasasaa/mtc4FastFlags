@@ -4,6 +4,7 @@
 ![зображення](https://github.com/user-attachments/assets/e027fdb9-7216-4c82-839e-113b681e98cc)
 **Вставляем все что ниже**
 
+```
 {
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FIntFRMMinGrassDistance": "0",
@@ -64,3 +65,4 @@
   "FFlagEnableInGameMenuChromeABTest2": "True",
   "FFlagEnableInGameMenuChromeABTest3": "True"
 }
+```
