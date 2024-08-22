@@ -1,5 +1,9 @@
 # mtc4FastFlags
 
+![зображення](https://github.com/user-attachments/assets/816e8435-4bfa-484c-8031-efa72ccac395)
+![зображення](https://github.com/user-attachments/assets/e027fdb9-7216-4c82-839e-113b681e98cc)
+**Вставляем все что ниже**
+
 {
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FIntFRMMinGrassDistance": "0",
